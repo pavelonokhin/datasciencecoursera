@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for Course Project @Coursera Data Science specizlization
+Repo for Course Project @Coursera Data Science specialization
